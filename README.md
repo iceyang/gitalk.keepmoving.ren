@@ -1,2 +1,3 @@
-# gittalk.keepmoving.ren
-gittalk for eepmoving.ren
+# gitalk.keepmoving.ren
+
+gitalk repository for website https://keepmoving.ren
